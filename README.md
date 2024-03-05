@@ -28,7 +28,3 @@ The dataset used for this analysis can be found in the "hotel_booking_cancellati
 2. Weekend Discounts: Resort hotels show a higher cancellation ratio compared to city hotels. Providing reasonable discounts on weekend stays or during holidays could help reduce cancellations.
 3. Campaigns in January: January exhibits the highest cancellation rates. Hotels can plan marketing campaigns with attractive offers during this month to boost revenue.
 4. Customer Loyalty Discounts: Offering loyalty coupons to returning customers for discounts on future visits can incentivize repeat bookings.
-
-
-
-
